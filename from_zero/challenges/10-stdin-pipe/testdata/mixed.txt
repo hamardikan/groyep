@@ -1,0 +1,7 @@
+Hello World
+this is lowercase
+THIS IS UPPERCASE
+Mixed Case Text
+go is a great language
+123 numbers stay the same
+café au lait
